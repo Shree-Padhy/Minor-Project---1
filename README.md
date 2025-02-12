@@ -2,8 +2,8 @@
 🚀 *A Machine Learning-based Approach for Analyzing Public Opinion*
 
 ## ✨ **Overview**  
-This project focuses on **Sentiment Analysis on Restaurant Review Data**, aiming to classify user opinions as **✅ Positive, ❌ Negative, or ⚪ Neutral**.  
-It utilizes **machine learning models** to analyze textual data, helping businesses and individuals understand public sentiment trends.
+1. This project focuses on **Sentiment Analysis on Restaurant Review Data**, aiming to classify user opinions as **✅ Positive, ❌ Negative, or ⚪ Neutral**.  
+2. It utilizes **machine learning models** to analyze textual data, helping businesses and individuals understand public sentiment trends.
 
 ## 🎯 **Features**  
 ✔️ **Preprocessed and cleaned social media text data**  
