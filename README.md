@@ -1,40 +1,59 @@
 # **📝 Sentiment Analysis on Restaurant Review Data**  
-🚀 *A Machine Learning-based Approach for Analyzing Public Opinion*
+
+🚀 *Public Opinion Analysis With The Use Of Machine Learning*  
 
 ## ✨ **Overview**  
-1. This project focuses on **Sentiment Analysis on Restaurant Review Data**, aiming to classify user opinions as **✅ Positive, ❌ Negative, or ⚪ Neutral**.  
-2. It utilizes **machine learning models** to analyze textual data, helping businesses and individuals understand public sentiment trends.
+
+1. This project investigates **Sentiment Analysis on Restaurant Review** attempting to identify user sentiment as **✅ Positive, ❌ Negative, or ⚪ Neutral**.  
+
+2. This project incorporates the use of presets of trained **machine learning models** to the textual data, which would help companies and individuals to analyze the public opinion pattern trends.    
 
 ## 🎯 **Features**  
-✔️ **Preprocessed and cleaned social media text data**  
-✔️ **Sentiment classification** (*Positive, Negative, Neutral*)  
-✔️ **Machine learning models trained for high accuracy**  
-✔️ **Data visualization for sentiment trends**  
-✔️ **Supports real-time or batch predictions**  
+
+✔️**Processed and cleaned social media text data**   
+✔️**Sentiment Analysis Classification** (*Positive, Negative, Neutral*)  
+✔️ **Machine Learning Models Trained with Very High Accuracy**    
+✔️ **Sentiment Trends Data Visualization**  
+✔️ **Real-Time or Batch Predictions**
 
 ## 📂 **Dataset**  
-The dataset consists of **Restaurant Review Data** collected from various platforms.  
-The text data has been **cleaned, tokenized, and vectorized** for better model performance.
+
+The data includes reviews of different eateries accumulated from different sites.  
+
+Data has been preprocessed by cleaning, tokenizing, and vectorizing to improve the model's performance.  
 
 ## 🛠 **Tech Stack**  
+
 - **📝 Programming Language:** `Python`  
+
 - **📦 Libraries & Frameworks:**  
+
   - 🏷 **NLP:** `NLTK`, `SpaCy`  
+
   - 📊 **Machine Learning:** `Scikit-learn`, `TensorFlow/PyTorch`  
+
   - 🔄 **Data Processing:** `Pandas`, `NumPy`  
-  - 📈 **Visualization:** `Matplotlib`, `Seaborn`  
-- **🤖 Model Used:** `Logistic Regression`, `Random Forest`, `LSTM` , `SVM` , `Naive Bayes` etc .
+
+  - 📈 **Vizualization:** `Matplotlib`, `Seaborn`  
+
+- **🤖 Model Used:** `Logistic Regression`, `Random Forest`, `LSTM`, `SVM`, and `Naive Bayes`, among others.  
 
 ## 📌 **Usage**  
-✔️ Run the script to classify sentiment in a given dataset.  
-✔️ Modify **`fff_model.py`** to change preprocessing or model settings.  
-✔️ Input a **custom text** and get **sentiment predictions**.  
- 
+
+✔️ Execute the program to determine sentiment on a provided dataset.  
+
+✔️ Edit **`fff_model.py`** to adjust model parameters or change the methods for preprocessing.  
+
+✔️ Receive **sentiment predictions** on any **custom text**.  
 
 ## 📈 **Future Improvements**  
-🚀 **Enhance dataset** with more real-world samples  
-🚀 **Experiment with transformer-based models** (*e.g., BERT, RoBERTa*)  
-🚀 **Deploy as a web application or API**  
+
+🚀 **Improve dataset** in the context of real life by adding more samples.  
+
+🚀 **Use models based on transformer architecture** such as BERT or RoBERTa for further experimentation.  
+
+🚀 **Build a web application or an API** for enabling easy access to the model.  
 
 ## 🤝 **Contributing**  
-💡 Contributions are welcome! Feel free to submit **pull requests** or open **issues** for discussion.  
+
+💡 It is open for the community to contribute. You can explain your ideas through **pull requests** or create **issues** for discussions.
