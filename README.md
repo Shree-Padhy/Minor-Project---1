@@ -54,6 +54,14 @@ Data has been preprocessed by cleaning, tokenizing, and vectorizing to improve t
 
 🚀 **Build a web application or an API** for enabling easy access to the model.  
 
+---
+
+## 🤝 **Contributing**  
+
+❗ This is a restricted project.  
+Public contributions are not accepted.
+
+Feedback is welcome through issues , but code changes will only be reviewed from authorized contributors.
 
 ---
 
